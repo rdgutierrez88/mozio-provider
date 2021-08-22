@@ -1,14 +1,14 @@
 # mozio-provider
 Python Coding test by Mozio
 
-##Requirements
+## Requirements
 Python 3.6.8+
 
-##Installation
+## Installation
 `pip install -r requirements.txt`
 
-##Testing
+## Testing
 `python manage.py test`
 
-##To Do
+## To Do
 * deploy
